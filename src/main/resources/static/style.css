@@ -1,0 +1,10 @@
+.blueFont {
+        display: flex;
+        justify-content: center;
+        color: blue;
+}
+.greenFont {
+        display: flex;
+        justify-content: center;
+        color: green;
+}
